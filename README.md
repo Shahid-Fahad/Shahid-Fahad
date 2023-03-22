@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahiduzzaman Fahad</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="shahid-fahad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahid-fahad" alt="shahid-fahad" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
