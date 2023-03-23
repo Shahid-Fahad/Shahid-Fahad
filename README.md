@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahiduzzaman Fahad</h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Shahiduzzaman Fahad!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="shahid-fahad" /> </p>
 
 
